@@ -61,7 +61,7 @@ my-oci-redis-java
 
 3. Run the application:
    ```bash
-   mvn exec:java -Dexec.mainClass="com.example.ociredis.App"
+   mvn exec:java -Dexec.mainClass="com.example.ociredis.CreateIdentityTokenExample"
    ```
 
 ## Testing
